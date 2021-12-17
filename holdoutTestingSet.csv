@@ -1,4 +1,4 @@
-,pokedex_number,name,generation,is_legendary,species,type_1,type_2,height_m,weight_kg,hp,attack,defense,sp_attack,sp_defense,speed,against_normal,against_fire,against_water,against_electric,against_grass,against_ice,against_fight,against_poison,against_ground,against_flying,against_psychic,against_bug,against_rock,against_ghost,against_dragon,against_dark,against_steel,against_fairy
+,pokedex_number,name,generation,is_legendary,species,Type1,Type2,height_m,weight_kg,hp,attack,defense,sp_attack,sp_defense,speed,against_normal,against_fire,against_water,against_electric,against_grass,against_ice,against_fight,against_poison,against_ground,against_flying,against_psychic,against_bug,against_rock,against_ghost,against_dragon,against_dark,against_steel,against_fairy
 932,802,Marshadow,7,1,Gloomdweller Pokémon,Fighting,Ghost,0.7,22.2,90,125,80,90,90,125,0,1,1,1,1,1,0,0.5,1,2,2,0.25,0.5,2,1,1,1,2
 933,803,Poipole,7,0,Poison Pin Pokémon,Poison,,0.6,1.8,67,73,67,73,67,73,1,1,1,1,0.5,1,0.5,0.5,2,1,2,0.5,1,1,1,1,1,0.5
 934,804,Naganadel,7,0,Poison Pin Pokémon,Poison,Dragon,3.6,150,73,73,73,127,73,121,1,0.5,0.5,0.5,0.25,2,0.5,0.5,2,1,2,0.5,1,1,2,1,1,1
