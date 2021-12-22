@@ -14,13 +14,13 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 13,weedle,Bug,Poison,40,0.3,3.2,35,30,50,20,20,Hairy Pokémon,1,0
 14,kakuna,Bug,Poison,45,0.6,10,25,50,35,25,25,Cocoon Pokémon,1,0
 15,beedrill,Bug,Poison,65,1,29.5,150,40,145,15,80,Poison Bee Pokémon,1,0
-16,pidgey,Flying,,40,0.3,1.8,45,40,56,35,35,Tiny Bird Pokémon,1,0
-17,pidgeotto,Flying,,63,1.1,30,60,55,71,50,50,Bird Pokémon,1,0
-18,pidgeot,Flying,,83,1.5,39.5,80,80,121,135,80,Bird Pokémon,1,0
+16,pidgey,Normal,Flying,40,0.3,1.8,45,40,56,35,35,Tiny Bird Pokémon,1,0
+17,pidgeotto,Normal,Flying,63,1.1,30,60,55,71,50,50,Bird Pokémon,1,0
+18,pidgeot,Normal,Flying,83,1.5,39.5,80,80,121,135,80,Bird Pokémon,1,0
 19,rattata,Normal,,30,0.3,3.5,56,35,72,25,35,Mouse Pokémon,1,0
 20,raticate,Normal,,75,0.7,18.5,71,70,77,40,80,Mouse Pokémon,1,0
-21,spearow,Flying,,40,0.3,2,60,30,70,31,31,Tiny Bird Pokémon,1,0
-22,fearow,Flying,,65,1.2,38,90,65,100,61,61,Beak Pokémon,1,0
+21,spearow,Normal,Flying,40,0.3,2,60,30,70,31,31,Tiny Bird Pokémon,1,0
+22,fearow,Normal,Flying,65,1.2,38,90,65,100,61,61,Beak Pokémon,1,0
 23,ekans,Poison,,35,2,6.9,60,44,55,40,54,Snake Pokémon,1,0
 24,arbok,Poison,,60,3.5,65,95,69,80,65,79,Cobra Pokémon,1,0
 25,pikachu,Electric,,35,0.4,6,55,40,90,50,50,Mouse Pokémon,1,0
@@ -37,8 +37,8 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 36,clefable,Fairy,,95,1.3,40,70,73,60,95,90,Fairy Pokémon,1,0
 37,vulpix,Fire,,38,0.6,9.6,41,40,65,50,65,Fox Pokémon,1,0
 38,ninetales,Fire,,73,1.1,19.8,67,75,109,81,100,Fox Pokémon,1,0
-39,jigglypuff,Fairy,,115,0.5,5.5,45,20,20,45,25,Balloon Pokémon,1,0
-40,wigglytuff,Fairy,,140,1,12,70,45,45,85,50,Balloon Pokémon,1,0
+39,jigglypuff,Normal,Fairy,115,0.5,5.5,45,20,20,45,25,Balloon Pokémon,1,0
+40,wigglytuff,Normal,Fairy,140,1,12,70,45,45,85,50,Balloon Pokémon,1,0
 41,zubat,Poison,Flying,40,0.8,7.5,45,35,55,30,40,Bat Pokémon,1,0
 42,golbat,Poison,Flying,75,1.6,55,80,70,90,65,75,Bat Pokémon,1,0
 43,oddish,Grass,Poison,45,0.5,5.4,50,55,30,75,65,Weed Pokémon,1,0
@@ -81,9 +81,9 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 80,slowbro,Water,Psychic,95,1.6,78.5,75,180,30,130,80,Hermit Crab Pokémon,1,0
 81,magnemite,Electric,Steel,25,0.3,6,35,70,45,95,55,Magnet Pokémon,1,0
 82,magneton,Electric,Steel,50,1,60,60,95,70,120,70,Magnet Pokémon,1,0
-83,farfetchd,Flying,,52,0.8,15,90,55,60,58,62,Wild Duck Pokémon,1,0
-84,doduo,Flying,,35,1.4,39.2,85,45,75,35,35,Twin Bird Pokémon,1,0
-85,dodrio,Flying,,60,1.8,85.2,110,70,110,60,60,Triple Bird Pokémon,1,0
+83,farfetchd,Normal,Flying,52,0.8,15,90,55,60,58,62,Wild Duck Pokémon,1,0
+84,doduo,Normal,Flying,35,1.4,39.2,85,45,75,35,35,Twin Bird Pokémon,1,0
+85,dodrio,Normal,Flying,60,1.8,85.2,110,70,110,60,60,Triple Bird Pokémon,1,0
 86,seel,Water,,65,1.1,90,45,55,45,45,70,Sea Lion Pokémon,1,0
 87,dewgong,Water,Ice,90,1.7,120,70,80,70,70,95,Sea Lion Pokémon,1,0
 88,grimer,Poison,,80,0.9,30,80,50,25,40,50,Sludge Pokémon,1,0
@@ -161,8 +161,8 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 160,feraligatr,Water,,85,2.3,88.8,105,100,78,79,83,Big Jaw Pokémon,2,0
 161,sentret,Normal,,35,0.8,6,46,34,20,35,45,Scout Pokémon,2,0
 162,furret,Normal,,85,1.8,32.5,76,64,90,45,55,Long Body Pokémon,2,0
-163,hoothoot,Flying,,60,0.7,21.2,30,30,50,36,56,Owl Pokémon,2,0
-164,noctowl,Flying,,100,1.6,40.8,50,50,70,86,96,Owl Pokémon,2,0
+163,hoothoot,Normal,Flying,60,0.7,21.2,30,30,50,36,56,Owl Pokémon,2,0
+164,noctowl,Normal,Flying,100,1.6,40.8,50,50,70,86,96,Owl Pokémon,2,0
 165,ledyba,Bug,Flying,40,1,10.8,20,30,55,40,80,Five Star Pokémon,2,0
 166,ledian,Bug,Flying,55,1.4,35.6,35,50,85,55,110,Five Star Pokémon,2,0
 167,spinarak,Bug,Poison,40,0.5,8.5,60,40,30,40,40,String Spit Pokémon,2,0
@@ -172,7 +172,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 171,lanturn,Water,Electric,125,1.2,22.5,58,58,67,76,76,Light Pokémon,2,0
 172,pichu,Electric,,20,0.3,2,40,15,60,35,35,Tiny Mouse Pokémon,2,0
 173,cleffa,Fairy,,50,0.3,3,25,28,15,45,55,Star Shape Pokémon,2,0
-174,igglybuff,Fairy,,90,0.3,1,30,15,15,40,20,Balloon Pokémon,2,0
+174,igglybuff,Normal,Fairy,90,0.3,1,30,15,15,40,20,Balloon Pokémon,2,0
 175,togepi,Fairy,,35,0.3,1.5,20,65,20,40,65,Spike Ball Pokémon,2,0
 176,togetic,Fairy,Flying,55,0.6,3.2,40,85,40,80,105,Happiness Pokémon,2,0
 177,natu,Psychic,Flying,40,0.2,2,50,45,70,70,45,Little Bird Pokémon,2,0
@@ -201,7 +201,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 200,misdreavus,Ghost,,60,0.7,1,60,60,85,85,85,Screech Pokémon,2,0
 201,unown,Psychic,,48,0.5,5,72,48,48,72,48,Symbol Pokémon,2,0
 202,wobbuffet,Psychic,,190,1.3,28.5,33,58,33,33,58,Patient Pokémon,2,0
-203,girafarig,Psychic,,70,1.5,41.5,80,65,85,90,65,Long Neck Pokémon,2,0
+203,girafarig,Normal,Psychic,70,1.5,41.5,80,65,85,90,65,Long Neck Pokémon,2,0
 204,pineco,Bug,,50,0.6,7.2,65,90,15,35,35,Bagworm Pokémon,2,0
 205,forretress,Bug,Steel,75,1.2,125.8,90,140,40,60,60,Bagworm Pokémon,2,0
 206,dunsparce,Normal,,100,1.5,14,70,70,45,65,65,Land Snake Pokémon,2,0
@@ -274,8 +274,8 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 273,seedot,Grass,,40,0.5,4,40,50,30,30,30,Acorn Pokémon,3,0
 274,nuzleaf,Grass,Dark,70,1,28,70,40,60,60,40,Wily Pokémon,3,0
 275,shiftry,Grass,Dark,90,1.3,59.6,100,60,80,90,60,Wickid Pokémon,3,0
-276,taillow,Flying,,40,0.3,2.3,55,30,85,30,30,TinySwallow Pokémon,3,0
-277,swellow,Flying,,60,0.7,19.8,85,60,125,75,50,Swallow Pokémon,3,0
+276,taillow,Normal,Flying,40,0.3,2.3,55,30,85,30,30,TinySwallow Pokémon,3,0
+277,swellow,Normal,Flying,60,0.7,19.8,85,60,125,75,50,Swallow Pokémon,3,0
 278,wingull,Water,Flying,40,0.6,9.5,30,30,85,55,30,Seagull Pokémon,3,0
 279,pelipper,Water,Flying,60,1.2,28,50,100,65,95,70,Water Bird Pokémon,3,0
 280,ralts,Psychic,Fairy,28,0.4,6.6,25,25,40,45,35,Feeling Pokémon,3,0
@@ -331,7 +331,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 330,flygon,Ground,Dragon,80,2,82,100,80,100,80,80,Mystic Pokémon,3,0
 331,cacnea,Grass,,50,0.4,51.3,85,40,35,85,40,Cactus Pokémon,3,0
 332,cacturne,Grass,Dark,70,1.3,77.4,115,60,55,115,60,Scarecrow Pokémon,3,0
-333,swablu,Flying,,45,0.4,1.2,40,60,50,40,75,Cotton Bird Pokémon,3,0
+333,swablu,Normal,Flying,45,0.4,1.2,40,60,50,40,75,Cotton Bird Pokémon,3,0
 334,altaria,Dragon,Flying,75,1.1,20.6,110,110,80,110,105,Humming Pokémon,3,0
 335,zangoose,Normal,,73,1.3,40.3,115,60,90,60,60,Cat Ferret Pokémon,3,0
 336,seviper,Poison,,73,2.7,52.5,100,60,65,100,60,Fang Snake Pokémon,3,0
@@ -394,11 +394,11 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 393,piplup,Water,,53,0.4,5.2,51,53,40,61,56,Penguin Pokémon,4,0
 394,prinplup,Water,,64,0.8,23,66,68,50,81,76,Penguin Pokémon,4,0
 395,empoleon,Water,Steel,84,1.7,84.5,86,88,60,111,101,Emperor Pokémon,4,0
-396,starly,Flying,,40,0.3,2,55,30,60,30,30,Starling Pokémon,4,0
-397,staravia,Flying,,55,0.6,15.5,75,50,80,40,40,Starling Pokémon,4,0
-398,staraptor,Flying,,85,1.2,24.9,120,70,100,50,60,Predator Pokémon,4,0
+396,starly,Normal,Flying,40,0.3,2,55,30,60,30,30,Starling Pokémon,4,0
+397,staravia,Normal,Flying,55,0.6,15.5,75,50,80,40,40,Starling Pokémon,4,0
+398,staraptor,Normal,Flying,85,1.2,24.9,120,70,100,50,60,Predator Pokémon,4,0
 399,bidoof,Normal,,59,0.5,20,45,40,31,35,40,Plump Mouse Pokémon,4,0
-400,bibarel,Water,,79,1,31.5,85,60,71,55,60,Beaver Pokémon,4,0
+400,bibarel,Normal,Water,79,1,31.5,85,60,71,55,60,Beaver Pokémon,4,0
 401,kricketot,Bug,,37,0.3,2.2,25,41,25,25,41,Cricket Pokémon,4,0
 402,kricketune,Bug,,77,1,25.5,85,51,65,55,51,Cricket Pokémon,4,0
 403,shinx,Electric,,45,0.5,9.5,65,34,45,40,34,Flash Pokémon,4,0
@@ -439,7 +439,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 438,bonsly,Rock,,50,0.5,15,80,95,10,10,45,Bonsai Pokémon,4,0
 439,mime-jr,Psychic,Fairy,20,0.6,13,25,45,60,70,90,Mime Pokémon,4,0
 440,happiny,Normal,,100,0.6,24.4,5,5,30,15,65,Playhouse Pokémon,4,0
-441,chatot,Flying,,76,0.5,1.9,65,45,91,92,42,Music Note Pokémon,4,0
+441,chatot,Normal,Flying,76,0.5,1.9,65,45,91,92,42,Music Note Pokémon,4,0
 442,spiritomb,Ghost,Dark,50,1,108,92,108,35,92,108,Forbidden Pokémon,4,0
 443,gible,Dragon,Ground,58,0.7,20.5,70,45,42,40,45,Land Shark Pokémon,4,0
 444,gabite,Dragon,Ground,68,1.4,56,90,65,82,50,55,Cave Pokémon,4,0
@@ -517,9 +517,9 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 516,simipour,Water,,75,1,29,98,63,101,98,63,Geyser Pokémon,5,0
 517,munna,Psychic,,76,0.6,23.3,25,45,24,67,55,Dream Eater Pokémon,5,0
 518,musharna,Psychic,,116,1.1,60.5,55,85,29,107,95,Drowsing Pokémon,5,0
-519,pidove,Flying,,50,0.3,2.1,55,50,43,36,30,Tiny Pigeon Pokémon,5,0
-520,tranquill,Flying,,62,0.6,15,77,62,65,50,42,Wild Pigeon Pokémon,5,0
-521,unfezant,Flying,,80,1.2,29,115,80,93,65,55,Proud Pokémon,5,0
+519,pidove,Normal,Flying,50,0.3,2.1,55,50,43,36,30,Tiny Pigeon Pokémon,5,0
+520,tranquill,Normal,Flying,62,0.6,15,77,62,65,50,42,Wild Pigeon Pokémon,5,0
+521,unfezant,Normal,Flying,80,1.2,29,115,80,93,65,55,Proud Pokémon,5,0
 522,blitzle,Electric,,45,0.8,29.8,60,32,76,50,32,Electrified Pokémon,5,0
 523,zebstrika,Electric,,75,1.6,79.5,100,63,116,80,63,Thunderbolt Pokémon,5,0
 524,roggenrola,Rock,,55,0.4,18,75,85,15,25,25,Mantle Pokémon,5,0
@@ -583,8 +583,8 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 582,vanillite,Ice,,36,0.4,5.7,50,50,44,65,60,Fresh Snow Pokémon,5,0
 583,vanillish,Ice,,51,1.1,41,65,65,59,80,75,Icy Snow Pokémon,5,0
 584,vanilluxe,Ice,,71,1.3,57.5,95,85,79,110,95,Snowstorm Pokémon,5,0
-585,deerling,Grass,,60,0.6,19.5,60,50,75,40,50,Season Pokémon,5,0
-586,sawsbuck,Grass,,80,1.9,92.5,100,70,95,60,70,Season Pokémon,5,0
+585,deerling,Normal,Grass,60,0.6,19.5,60,50,75,40,50,Season Pokémon,5,0
+586,sawsbuck,Normal,Grass,80,1.9,92.5,100,70,95,60,70,Season Pokémon,5,0
 587,emolga,Electric,Flying,55,0.4,5,75,60,103,75,60,Sky Squirrel Pokémon,5,0
 588,karrablast,Bug,,50,0.5,5.9,75,45,60,40,45,Clamping Pokémon,5,0
 589,escavalier,Bug,Steel,70,1,33,135,105,20,60,105,Cavalry Pokémon,5,0
@@ -625,8 +625,8 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 624,pawniard,Dark,Steel,45,0.5,10.2,85,70,60,40,40,Sharp Blade Pokémon,5,0
 625,bisharp,Dark,Steel,65,1.6,70,125,100,70,60,70,Sword Blade Pokémon,5,0
 626,bouffalant,Normal,,95,1.6,94.6,110,95,55,40,95,Bash Buffalo Pokémon,5,0
-627,rufflet,Flying,,70,0.5,10.5,83,50,60,37,50,Eaglet Pokémon,5,0
-628,braviary,Flying,,100,1.5,41,123,75,80,57,75,Valiant Pokémon,5,0
+627,rufflet,Normal,Flying,70,0.5,10.5,83,50,60,37,50,Eaglet Pokémon,5,0
+628,braviary,Normal,Flying,100,1.5,41,123,75,80,57,75,Valiant Pokémon,5,0
 629,vullaby,Dark,Flying,70,0.5,9,55,75,60,45,65,Diapered Pokémon,5,0
 630,mandibuzz,Dark,Flying,110,1.2,39.5,65,105,80,55,95,Bone Vulture Pokémon,5,0
 631,heatmor,Fire,,85,1.4,58,97,66,65,105,66,Anteater Pokémon,5,0
@@ -646,7 +646,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 645,landorus-incarnate,Ground,Flying,89,1.5,68,145,90,91,105,80,Abundance Pokémon,5,1
 646,kyurem,Dragon,Ice,125,3,325,120,90,95,170,100,Boundary Pokémon,5,1
 647,keldeo-ordinary,Water,Fighting,91,1.4,48.5,72,90,108,129,90,Colt Pokémon,5,1
-648,meloetta-aria,Psychic,,100,0.6,6.5,128,90,128,77,77,Melody Pokémon,5,1
+648,meloetta-aria,Normal,Psychic,100,0.6,6.5,128,90,128,77,77,Melody Pokémon,5,1
 649,genesect,Bug,Steel,71,1.5,82.5,120,95,99,120,95,Paleozoic Pokémon,5,1
 650,chespin,Grass,,56,0.4,9,61,65,38,48,45,Spiky Nut Pokémon,6,0
 651,quilladin,Grass,,61,0.7,29,78,95,57,56,58,Spiny Armor Pokémon,6,0
@@ -658,7 +658,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 657,frogadier,Water,,54,0.6,10.9,63,52,97,83,56,Bubble Frog Pokémon,6,0
 658,greninja,Water,Dark,72,1.5,40,145,67,132,153,71,Ninja Pokémon,6,0
 659,bunnelby,Normal,,38,0.4,5,36,38,57,32,36,Digging Pokémon,6,0
-660,diggersby,Ground,,85,1,42.4,56,77,78,50,77,Digging Pokémon,6,0
+660,diggersby,Normal,Ground,85,1,42.4,56,77,78,50,77,Digging Pokémon,6,0
 661,fletchling,Normal,Flying,45,0.3,1.7,50,43,62,40,38,Tiny Robin Pokémon,6,0
 662,fletchinder,Fire,Flying,62,0.7,16,73,55,84,56,52,Ember Pokémon,6,0
 663,talonflame,Fire,Flying,78,1.2,24.5,81,71,126,74,69,Scorching Pokémon,6,0
@@ -729,9 +729,9 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 728,popplio,Water,,50,0.4,7.5,54,54,40,66,56,Sea Lion Pokémon,7,0
 729,brionne,Water,,60,0.6,17.5,69,69,50,91,81,Pop Star Pokémon,7,0
 730,primarina,Water,Fairy,80,1.8,44,74,74,60,126,116,Soloist Pokémon,7,0
-731,pikipek,Flying,,35,0.3,1.2,75,30,65,30,30,Woodpecker Pokémon,7,0
-732,trumbeak,Flying,,55,0.6,14.8,85,50,75,40,50,Bugle Beak Pokémon,7,0
-733,toucannon,Flying,,80,1.1,26,120,75,60,75,75,Cannon Pokémon,7,0
+731,pikipek,Normal,Flying,35,0.3,1.2,75,30,65,30,30,Woodpecker Pokémon,7,0
+732,trumbeak,Normal,Flying,55,0.6,14.8,85,50,75,40,50,Bugle Beak Pokémon,7,0
+733,toucannon,Normal,Flying,80,1.1,26,120,75,60,75,75,Cannon Pokémon,7,0
 734,yungoos,Normal,,48,0.4,6,70,30,45,30,30,Loitering Pokémon,7,0
 735,gumshoos,Normal,,88,0.7,14.2,110,60,45,55,60,Stakeout Pokémon,7,0
 736,grubbin,Bug,,47,0.4,4.4,62,45,46,55,45,Larva Pokémon,7,0
@@ -757,13 +757,13 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 756,shiinotic,Grass,Fairy,60,1,11.5,45,80,30,90,100,Illuminating Pokémon,7,0
 757,salandit,Poison,Fire,48,0.6,4.8,44,40,77,71,40,Toxic Lizard Pokémon,7,0
 758,salazzle,Poison,Fire,68,1.2,22.2,64,60,117,111,60,Toxic Lizard Pokémon,7,0
-759,stufful,Fighting,,70,0.5,6.8,75,50,50,45,50,Flailing Pokémon,7,0
-760,bewear,Fighting,,120,2.1,135,125,80,60,55,60,Strong Arm Pokémon,7,0
+759,stufful,Normal,Fighting,70,0.5,6.8,75,50,50,45,50,Flailing Pokémon,7,0
+760,bewear,Normal,Fighting,120,2.1,135,125,80,60,55,60,Strong Arm Pokémon,7,0
 761,bounsweet,Grass,,42,0.3,3.2,30,38,32,30,38,Fruit Pokémon,7,0
 762,steenee,Grass,,52,0.7,8.2,40,48,62,40,48,Fruit Pokémon,7,0
 763,tsareena,Grass,,72,1.2,21.4,120,98,72,50,98,Fruit Pokémon,7,0
 764,comfey,Fairy,,51,0.1,0.3,52,90,100,82,110,Posy Picker Pokémon,7,0
-765,oranguru,Psychic,,90,1.5,76,60,80,60,90,110,Sage Pokémon,7,0
+765,oranguru,Normal,Psychic,90,1.5,76,60,80,60,90,110,Sage Pokémon,7,0
 766,passimian,Fighting,,100,2,82.8,120,90,80,40,60,Teamwork Pokémon,7,0
 767,wimpod,Bug,Water,25,0.5,12,35,40,80,20,30,Turn Tail Pokémon,7,0
 768,golisopod,Bug,Water,75,2,108,125,140,40,60,90,Hard Scale Pokémon,7,0
@@ -778,7 +778,7 @@ pokedex_number,Name,Type1,Type2,hp,height_m,weight_kg,attack,defense,speed,sp_at
 777,togedemaru,Electric,Steel,65,0.3,3.3,98,63,96,40,73,Roly-Poly Pokémon,7,0
 778,mimikyu,Ghost,Fairy,55,0.2,0.7,90,80,96,50,105,Disguise Pokémon,7,0
 779,bruxish,Water,Psychic,68,0.9,19,105,70,92,70,70,Gnash Teeth Pokémon,7,0
-780,drampa,Dragon,,78,3,185,60,85,36,135,91,Placid Pokémon,7,0
+780,drampa,Normal,Dragon,78,3,185,60,85,36,135,91,Placid Pokémon,7,0
 781,dhelmise,Ghost,Grass,70,3.9,210,131,100,40,86,90,Sea Creeper Pokémon,7,0
 782,jangmo-o,Dragon,,45,0.6,29.7,55,65,45,45,45,Scaly Pokémon,7,0
 783,hakamo-o,Dragon,Fighting,55,1.2,47,75,90,65,65,70,Scaly Pokémon,7,0
